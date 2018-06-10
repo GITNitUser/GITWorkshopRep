@@ -8,5 +8,7 @@ public class SampleApp {
 	    	System.out.println(i);
 	    }
 	  /*  System.out.println("add==="+new Math().sum(100,200));*/
+	    WishGenerator generator=new WishGenerator();
+	    System.out.println("Msg:::"+generator.generateWishMessage("Raja"));
 	}//main
 }//class
