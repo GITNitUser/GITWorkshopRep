@@ -9,7 +9,7 @@ public class ListCountries {
 		for(Locale l:locales){
 			System.out.println(l.getDisplayCountry()+"  "+l.getDisplayLanguage());
 		}
-		//hello111678hai66
+		//hello111678hello
 		//abc1234
 	}
 	public  String print(){
