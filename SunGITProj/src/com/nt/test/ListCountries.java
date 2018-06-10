@@ -12,5 +12,8 @@ public class ListCountries {
 		//hello111
 		//abc1234
 	}
+	public  String print(){
+		 return  "welcome";
+	}
 
 }
