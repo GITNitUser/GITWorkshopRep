@@ -1,5 +1,5 @@
 package com.nt.test;
-import com.nt.test.Math;
+
 public class SampleApp {
 
 	public static void main(String[] args) {
@@ -7,6 +7,6 @@ public class SampleApp {
 	    for(int i=1;i<=10;++i){
 	    	System.out.println(i);
 	    }
-	    System.out.println("add==="+new Math().sum(100,200));
+	  /*  System.out.println("add==="+new Math().sum(100,200));*/
 	}//main
 }//class
